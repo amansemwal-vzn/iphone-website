@@ -15,7 +15,7 @@ export default defineConfig({
     org: "vzn",
     project: "javascript-react"
   })],
-  base: '/iphone-website/',
+  base: '/',
 
   build: {
     sourcemap: true
